@@ -1,3 +1,7 @@
 form#add-push-application input[type="submit"] {
     display: block;
 }
+
+#sign-in-notice {
+    text-align: center;
+}
